@@ -1,6 +1,3 @@
-
-
-
 def validacao_quantidade():
     n = 0
     while True:
